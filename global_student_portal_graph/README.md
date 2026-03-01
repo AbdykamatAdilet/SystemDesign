@@ -31,10 +31,10 @@ Username: neo4j
 Password: password  
 
 Run cypher scripts in order:
-1. 01_constraints.cypher
-2. 02_create_nodes.cypher
-3. 03_create_relationships.cypher
-4. 04_stability_query.cypher
+1. constraints.cypher
+2. create_nodes.cypher
+3. relationships.cypher
+4. stability_query.cypher
 
 ## Example Output:
 
