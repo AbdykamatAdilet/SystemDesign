@@ -1,4 +1,4 @@
-# Global Student Portal – Dependency Graph & Stability Metrics
+# Global Student Portal – Dependency Graph & Stability Metrics:
 
 ## Overview:
 
